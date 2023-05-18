@@ -31,6 +31,3 @@ Este repositorio contiene el código fuente del backend para una aplicación de 
 5. Ejecuta `npm start` para iniciar el servidor.
 6. Accede a la aplicación a través de `http://localhost:3000` (o el puerto que hayas configurado).
 
-## Contribución
-
-Si deseas contribuir a este proyecto, eres bienvenido(a) a enviar tus pull requests. Asegúrate de seguir las pautas de contribución y de proporcionar descripciones claras y concisas de los cambios realizados.
